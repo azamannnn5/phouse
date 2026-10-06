@@ -1,0 +1,1 @@
+{ "name": "the-p-house", "private": true, "version": "2.0.0", "description": "Static storefront with small Netlify Functions backed by Supabase." }
